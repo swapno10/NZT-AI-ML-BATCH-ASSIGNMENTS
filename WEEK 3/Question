@@ -1,0 +1,6 @@
+1) Perform Text Pre-processing techniques on 2 paragraphs as 1 input :-
+
+1. Stop word removal
+2. Removing punctuation marks ( Extra 1 marks if you do this )
+3. Stemming
+4. Lemmatization
